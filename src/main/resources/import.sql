@@ -6,4 +6,4 @@ insert into temperatura (id, nome_semana, temp_min, temp_max, descricao, umidade
 insert into temperatura (id, nome_semana, temp_min, temp_max, descricao, umidade, data_hora, latitude, longitude) values (1006, 'Sabado', 14, 26, 'Sol e chuva', 87, '14:30 - 04/04/2020', '70°', '40°');
 insert into temperatura (id, nome_semana, temp_min, temp_max, descricao, umidade, data_hora, latitude, longitude) values (1007, 'Domingo', 16, 28, 'Sol', 78, '13:30 - 05/04/2020', '65°', '59°');
 
-
+insert into usuario (id, login, senha) values (1, 'admin', 'admin')
